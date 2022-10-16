@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MashinaKgRecyclerView</string>
+    <string name="cars">Cars</string>
+    <string name="search">Search</string>
+    <string name="model_name">Model name · 0000</string>
+    <string name="dollar">00 000$</string>
+    <string name="som">0 000 000 som</string>
+    <string name="body_type">Body type</string>
+    <string name="volume">Volume</string>
+    <string name="drive_type">Drive type</string>
+    <string name="gearbox">Gearbox</string>
+    <string name="steering">Steering</string>
+    <string name="millage">Millage</string>
+</resources>
